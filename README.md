@@ -25,17 +25,17 @@ I’m passionate about using data to drive insights and decision-making. This re
 * Skills: Data exploration, calculating satisfaction rates, identifying trends, and proposing improvements.
 
 
-4.** Financial Data Analysis**
+4. **Financial Data Analysis**
 * Description: Analyzing stock market data, forex trends, and implementing trading strategies.
 * Skills: Time series analysis, stock market indicators, and financial forecasting.
 
   
-5.**Product Analytics**
+5. **Product Analytics**
 * Description: In-depth analysis of user behavior and product performance metrics.
 * Skills: Cohort analysis, A/B testing, user segmentation, product usage trends.
 
   
-6. Customer Analytics
+6. **Customer Analytics**
 * Description: Focuses on understanding customer behavior, preferences, and lifetime value through data.
 * Skills: Customer segmentation, churn analysis, lifetime value modeling, and retention strategies.
 
